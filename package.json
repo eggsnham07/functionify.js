@@ -1,0 +1,14 @@
+{
+  "name": "functionify.js",
+  "version": "0.0.1",
+  "description": "Verifies variables in a javascript function",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "eggsnham07",
+  "license": "MIT"
+}
